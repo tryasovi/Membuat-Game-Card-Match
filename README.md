@@ -1,2 +1,2 @@
 # Tugas-Membuat-Game-Card-Match-Dicoding
-Membuat Game Card Ma
+Belajar Membangun Game HTML5 Chapter 2
